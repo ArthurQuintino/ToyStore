@@ -1,5 +1,12 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\bakugan.jpeg
+wwwroot\images\blocos.png
+wwwroot\images\carrinho.jpeg
+wwwroot\images\GI_JOE.JPEG
+wwwroot\images\lava_rapido.png
+wwwroot\images\nerf.jpeg
+wwwroot\images\transformer.jpeg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -58,10 +65,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\images\bakugan.jpeg
-wwwroot\images\blocos.png
-wwwroot\images\carrinho.jpeg
-wwwroot\images\GI_JOE.JPEG
-wwwroot\images\lava_rapido.png
-wwwroot\images\nerf.jpeg
-wwwroot\images\transformer.jpeg

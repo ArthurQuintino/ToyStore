@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\repositorio\\carinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\repositorio\\carinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\repositorio\\carinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\repositorio\\carinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|solutionrelative:toystore\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AE5924-96CB-4F4F-B746-E2EEC17007C9}|ToyStore\\ToyStore.csproj|c:\\users\\sacol\\desktop\\toystore\\toystore\\toystore\\toystore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,85 +70,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Carrinho\\Index.cshtml",
-              "RelativeDocumentMoniker": "ToyStore\\Views\\Carrinho\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Carrinho\\Index.cshtml",
-              "RelativeToolTip": "ToyStore\\Views\\Carrinho\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ToyStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ToyStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T22:57:26.555Z",
+              "WhenOpened": "2025-09-16T23:14:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ToyStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ToyStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T23:14:01.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ToyStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ToyStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T23:14:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ToyStore\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ToyStore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T22:56:20.497Z"
+              "WhenOpened": "2025-09-16T22:56:20.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CarinhoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\CarinhoRepositorio.cs",
               "RelativeDocumentMoniker": "ToyStore\\Repositorio\\CarinhoRepositorio.cs",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\CarinhoRepositorio.cs",
               "RelativeToolTip": "ToyStore\\Repositorio\\CarinhoRepositorio.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T22:34:15.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "ToyStore\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "ToyStore\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T22:33:50.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CarrinhoController.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Controllers\\CarrinhoController.cs",
               "RelativeDocumentMoniker": "ToyStore\\Controllers\\CarrinhoController.cs",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Controllers\\CarrinhoController.cs",
               "RelativeToolTip": "ToyStore\\Controllers\\CarrinhoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T22:32:34.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ToyStore.csproj",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\ToyStore.csproj",
-              "RelativeDocumentMoniker": "ToyStore\\ToyStore.csproj",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\ToyStore.csproj",
-              "RelativeToolTip": "ToyStore\\ToyStore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-16T22:30:28.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ToyStore\\Controllers\\HomeController.cs",
@@ -148,19 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Program.cs",
-              "RelativeDocumentMoniker": "ToyStore\\Program.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Program.cs",
-              "RelativeToolTip": "ToyStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T22:49:53.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ItemCarrinho.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Models\\ItemCarrinho.cs",
               "RelativeDocumentMoniker": "ToyStore\\Models\\ItemCarrinho.cs",
@@ -168,24 +171,23 @@
               "RelativeToolTip": "ToyStore\\Models\\ItemCarrinho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T22:47:41.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T22:47:41.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ToyStore\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Models\\Produto.cs",
               "RelativeToolTip": "ToyStore\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T22:47:01.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\appsettings.json",
               "RelativeDocumentMoniker": "ToyStore\\appsettings.json",
@@ -197,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ToyStore\\Models\\ErrorViewModel.cs",
@@ -206,6 +208,55 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T22:48:49.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ToyStore\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "ToyStore\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:33:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Carrinho\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToyStore\\Views\\Carrinho\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Views\\Carrinho\\Index.cshtml*",
+              "RelativeToolTip": "ToyStore\\Views\\Carrinho\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T22:57:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Program.cs",
+              "RelativeDocumentMoniker": "ToyStore\\Program.cs",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\Program.cs",
+              "RelativeToolTip": "ToyStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:49:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToyStore.csproj",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\ToyStore.csproj",
+              "RelativeDocumentMoniker": "ToyStore\\ToyStore.csproj",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\ToyStore\\ToyStore\\ToyStore\\ToyStore.csproj",
+              "RelativeToolTip": "ToyStore\\ToyStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T22:30:28.235Z"
             }
           ]
         }

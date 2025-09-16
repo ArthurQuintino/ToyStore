@@ -56,3 +56,4 @@ C:\Users\sacol\Desktop\ToyStore\ToyStore\ToyStore\obj\Debug\net8.0\refint\ToySto
 C:\Users\sacol\Desktop\ToyStore\ToyStore\ToyStore\obj\Debug\net8.0\ToyStore.pdb
 C:\Users\sacol\Desktop\ToyStore\ToyStore\ToyStore\obj\Debug\net8.0\ToyStore.genruntimeconfig.cache
 C:\Users\sacol\Desktop\ToyStore\ToyStore\ToyStore\obj\Debug\net8.0\ref\ToyStore.dll
+C:\Users\sacol\Desktop\ToyStore\ToyStore\ToyStore\obj\Debug\net8.0\ToyStore.sourcelink.json
